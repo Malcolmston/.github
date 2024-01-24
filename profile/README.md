@@ -1,4 +1,5 @@
-## Hi there 👋
+## ⚓️ heyo, Tars! We're ACM at Rollins, the one tech organization on campus.
+
 
 <!--
 
